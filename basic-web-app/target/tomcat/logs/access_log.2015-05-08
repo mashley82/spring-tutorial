@@ -1,0 +1,13 @@
+0:0:0:0:0:0:0:1 - - [08/May/2015:07:49:56 -0400] "GET /basic-web-app/test HTTP/1.1" 500 10663 http-bio-8080-exec-3 439
+0:0:0:0:0:0:0:1 - - [08/May/2015:07:51:36 -0400] "GET /basic-web-app/test HTTP/1.1" 500 10663 http-bio-8080-exec-5 239
+0:0:0:0:0:0:0:1 - - [08/May/2015:07:53:04 -0400] "GET /basic-web-app/test HTTP/1.1" 500 10663 http-bio-8080-exec-7 230
+0:0:0:0:0:0:0:1 - - [08/May/2015:07:53:06 -0400] "GET /basic-web-app/test HTTP/1.1" 500 10663 http-bio-8080-exec-8 231
+0:0:0:0:0:0:0:1 - - [08/May/2015:07:54:51 -0400] "GET / HTTP/1.1" 404 - http-bio-8080-exec-2 0
+0:0:0:0:0:0:0:1 - - [08/May/2015:07:54:55 -0400] "GET / HTTP/1.1" 404 - http-bio-8080-exec-2 0
+0:0:0:0:0:0:0:1 - - [08/May/2015:07:55:21 -0400] "GET / HTTP/1.1" 404 - http-bio-8080-exec-2 0
+0:0:0:0:0:0:0:1 - - [08/May/2015:07:55:29 -0400] "GET /basic-web-app/test HTTP/1.1" 500 10663 http-bio-8080-exec-2 215
+0:0:0:0:0:0:0:1 - - [08/May/2015:07:56:24 -0400] "GET / HTTP/1.1" 404 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [08/May/2015:07:56:27 -0400] "GET /basic-web-app/test HTTP/1.1" 500 10663 http-bio-8080-exec-3 400
+0:0:0:0:0:0:0:1 - - [08/May/2015:08:02:30 -0400] "GET /basic-web-app/test HTTP/1.1" 500 10663 http-bio-8080-exec-1 439
+0:0:0:0:0:0:0:1 - - [08/May/2015:08:02:32 -0400] "GET /basic-web-app/test HTTP/1.1" 500 10663 http-bio-8080-exec-2 232
+0:0:0:0:0:0:0:1 - - [08/May/2015:08:05:21 -0400] "GET /basic-web-app/test HTTP/1.1" 200 11 http-bio-8080-exec-1 1137
